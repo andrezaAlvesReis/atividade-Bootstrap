@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background: white;
+
+}
+
+.col {
+    border: 1px solid;
+    height: 20vh
+}
+
+.item1 {
+    background: blue;
+}
+
+.item2 {
+    background: green;
+}
+
+.item3 {
+    background: red;
+}
+
+.item4 {
+    background: blue;
+}
+
+.item5 {
+    background: green;
+}
+
+.item6 {
+    background: red;
+}
+
